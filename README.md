@@ -1,6 +1,6 @@
 # Infected
 
-# Tailai Wang, Hamza Saqib, Cameron Beneteau, Luka David
+# Tailai Wang & Cameron Beneteau
 
 Pygame remake of Chain Reaction strategy game. 
 
