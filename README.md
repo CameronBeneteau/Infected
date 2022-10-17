@@ -46,10 +46,6 @@ Run the [Infected.py](Infected.py) file to play!
 
 ## Results
 
-All-in-all, the project was a great success! We had an enjoyable time developing this game while learning Java and object-oriented programming.
-
-Even better: Our classmates and teachers had a great time fighting on the battlefield for ultimate bragging rights!
-
 We are extremely happy we were able to participate in MasseyHacks III to build this project.
 
 The 24-hour time constraint was easily the hardest but most enjoyable part of this experience.
