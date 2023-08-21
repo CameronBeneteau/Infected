@@ -1,6 +1,6 @@
 # Infected
 
-Remake of the Chain Reaction strategy arcade game! Made in 24 hours using PyGame! ([Demo Video](https://youtu.be/7iWkoGkyd_Y))
+Remake of the [Chain Reaction](https://apps.apple.com/us/app/chain-reaction-game/id1592677727) strategy arcade game! Made in 24 hours using PyGame! ([Demo Video](https://youtu.be/7iWkoGkyd_Y))
 
 By [Cameron Beneteau](https://github.com/CameronBeneteau), [Tailai Wang](https://github.com/tailaiwang), [Hamza Saquib](https://github.com/hamzasaqib890), and [Luka David](https://github.com/LukaDavid04)  
 Event: [MasseyHacks III](https://mh3.masseyhacks.ca/) (Grade 10)  
